@@ -11,7 +11,7 @@ public class ExDemo {
 		System.out.println("Enter num1");
 		int num1 = sc.nextInt();
 
-		System.out.println("Enter num2 but don't enter 0");
+		System.out.println("Enter num2");
 		int num2 = sc.nextInt();
 
 		try {
