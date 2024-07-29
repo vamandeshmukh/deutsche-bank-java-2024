@@ -14,6 +14,8 @@ public class IoDemo {
 		while (fis.available() > 0) {
 			System.out.print((char) fis.read());
 		}
+		// sample text in the text file
+		// another sample text to write in the file
 
 		fis.close();
 	}
