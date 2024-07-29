@@ -19,8 +19,8 @@ public class ExDemo {
 		} catch (ArithmeticException e) {
 			System.out.println("Do not enter 0");
 		}
-
-		sc.close();
-
+		finally {
+			sc.close();
+		}
 	}
 }
