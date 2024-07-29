@@ -36,3 +36,18 @@ public class JdbcDemo {
 	}
 
 }
+
+
+
+
+
+
+//CREATE TABLE employees (id number(10) primary key, name varchar(40), salary number(8, 2));
+//
+//INSERT INTO employees (id, name, salary) VALUES (101, 'Sonu', 90.75);
+//INSERT INTO employees (id, name, salary) VALUES (102, 'Monu', 95.50);
+//INSERT INTO employees (id, name, salary) VALUES (103, 'Tonu', 92.25);
+//
+//COMMIT;
+//
+//SELECT * FROM employees;
